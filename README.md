@@ -1,2 +1,2 @@
 # kbb
-Kenins Bridge Bot
+My attempt to write an intelligent (contract) bridge bot.
